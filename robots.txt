@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /api/
+Disallow: /templates/
+Disallow: /templates_c/
+Disallow: /backup/
+Disallow: /config/
+Disallow: /configs/
